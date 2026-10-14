@@ -4,7 +4,7 @@ title: Materials
 permalink: /materials/
 ---
 
-[**Full Course Syllabus**](/ai-agents-real-world-decision-making/syllabus/)
+[**Full Course Syllabus**]({{ '/syllabus/' | relative_url }})
 
 ### Mandatory Tutorials (Target Date: Feb 11)
 
